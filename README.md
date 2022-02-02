@@ -7,8 +7,4 @@ This is the place where I opensource stuff and break things :rofl:
 - 📫 How to reach me: [@AyraHikari](https://t.me/AyraHikari)
 - ⚡ Fun fact: I :heart: :cat:
 
-📊 **This week I spent my time on**
-
-![Wwakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AyraHikari&custom_title=Ayra's%20Week%20Stats&hide_title=true&hide_border=true&langs_count=5)
-
-<img src='https://profile-counter.glitch.me/AyraHikari/count.svg' width='0px'>
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W8AAUFI)
