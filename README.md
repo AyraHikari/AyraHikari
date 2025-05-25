@@ -53,7 +53,8 @@ Bringing Samsung Music to **non-Samsung ROMs** with full compatibility.
 ## 🌐 Find Me Online
 
 - 📫 Telegram: [@AyraHikari](https://t.me/AyraHikari)  
-- 🌍 Website: [https://ayra.eu.org](https://ayra.eu.org)  
+- 🌍 Website: [https://ayra.eu.org](https://ayra.eu.org)
+- 📧 Email: [me@ayra.eu.org](mailto:me@ayra.eu.org) | [ayrahikari@gmail.com](mailto:ayrahikari@gmail.com)
 - 🧑‍💻 GitHub: [github.com/AyraHikari](https://github.com/AyraHikari)
 
 ---
