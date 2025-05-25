@@ -19,6 +19,10 @@ I'm a **fullstack developer**, **reverse engineer**, and a **fast learner** base
 ![Kotlin](https://img.shields.io/badge/-Kotlin-333?style=flat&logo=kotlin)
 ![Smali](https://img.shields.io/badge/-Smali-333?style=flat&logo=android)
 ![Shell](https://img.shields.io/badge/-Shell-333?style=flat&logo=gnu-bash)
+![HTML](https://img.shields.io/badge/-HTML5-333?style=flat&logo=html5)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind-333?style=flat&logo=tailwind-css)
+![Flask](https://img.shields.io/badge/-Flask-333?style=flat&logo=flask)
+![Django](https://img.shields.io/badge/-Django-333?style=flat&logo=django)
 ![VB.NET](https://img.shields.io/badge/-Visual%20Basic-333?style=flat&logo=dotnet)
 ![C](https://img.shields.io/badge/-C-333?style=flat&logo=c)
 ![Java](https://img.shields.io/badge/-Java-333?style=flat&logo=java)
@@ -62,7 +66,7 @@ Bringing Samsung Music to **non-Samsung ROMs** with full compatibility.
     <h3>Ayra's Project</h3>
     <p>📡 Over 31,000 subscribers</p>
     <p><strong>Follow for updates, releases & announcements</strong></p>
-    <img src="https://img.shields.io/badge/Join%20Channel-0088cc?style=for-the-badge&logo=telegram&logoColor=white" />
+    <a href="https://t.me/AyraProject"><img src="https://img.shields.io/badge/Join%20Channel-0088cc?style=for-the-badge&logo=telegram&logoColor=white" /></a>
   </a>
 </div>
 
