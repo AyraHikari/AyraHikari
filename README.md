@@ -5,9 +5,9 @@
 
 ## 🌟 Passionate GitHub Developer
 
-I'm a **fullstack developer** and **reverse engineer** based in 🇮🇩 Indonesia. I love learning new things, exploring technology, and building reliable and modern software. I reverse-engineer apps for fun and develop useful tools for everyday tech needs.
+I'm a **fullstack developer**, **reverse engineer**, and a **fast learner** based in 🇮🇩 Indonesia. I love learning new things, exploring technology, and building reliable and modern software. I reverse-engineer apps for fun and develop useful tools for everyday tech needs.
 
-🧭 On GitHub since **2018** with **124+ public repos** and **389+ followers**.
+🧭 On GitHub since **2018**.
 
 > _"Made with curiosity, driven by passion."_  
 
