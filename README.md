@@ -63,7 +63,7 @@ Bringing Samsung Music to **non-Samsung ROMs** with full compatibility.
 
 <div align="center">
   <a href="https://t.me/AyraProject" target="_blank">
-    <img src="https://cdn5.cdn-telegram.org/file/hHS50v1LPPK6mMHQRq-01EyyiApCkwS1RnamLQWR8JOg6-3Y0AcTP-iObEpOvPg5P1rUJxAwtEHXENoM7nNiP2xWvZ3nS7ycxDl_IvNrLin_2CJt4kVzMoeaJmSBBPCxacUla9KoMNpj9AslsgC1WgI863ML6nFpn3IAC7ofghCd9boXnU5TOZ7NCsm2XG0RKW2flrWdAzCPt5RLVsg1Nflw3dCXcG67WnQyr1A0Kh1fhG2eqatRrzSiv_aXx78CWYVq8QcVBOu9kdCpG9oSLlc1MITFHAhSZbAu_WntqubpG7zC83dM2SyRS5_dt7V7JsitzNS9Jq8sRob3gacKMA.jpg" width="64" height="64" style="border-radius: 50%;" />
+    <img src="http://files.ayra.eu.org/channel.jpg" width="64" height="64" style="border-radius: 50%;" />
     <h3>Ayra's Project</h3>
     <p>📡 Over 31,000 subscribers</p>
     <p><strong>Follow for updates, releases & announcements</strong></p>
