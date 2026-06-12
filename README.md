@@ -5,7 +5,7 @@
 
 ## 🌟 Passionate GitHub Developer
 
-I'm a **fullstack developer**, **reverse engineer**, and a **fast learner** based in 🇮🇩 Indonesia. I love learning new things, exploring technology, and building reliable and modern software. I reverse-engineer apps for fun and develop useful tools for everyday tech needs.
+I'm a **fullstack engineer**, **reverse engineer**, and a **fast learner** based in 🇮🇩 Indonesia. I love learning new things, exploring technology, and building reliable and modern software. I reverse-engineer apps for fun and develop useful tools for everyday tech needs.
 
 🧭 On GitHub since **2018**.
 
@@ -47,6 +47,18 @@ Supports many Indonesian couriers with an intuitive UI and multilingual support.
 ### 🎵 [SamsungMusicPort](https://github.com/AyraHikari/SamsungMusicPort)  
 Bringing Samsung Music to **non-Samsung ROMs** with full compatibility.  
 ⏱️ 2021–2025 · Smali
+
+### [FrigateHub](https://github.com/AyraHikari/FrigateHub)
+Watch your home camera with AI detection easily and notify your phone if something happened.
+⏱️ 2026  · Kotlin, Docker
+
+### [Ayra Music](https://github.com/AyraHikari/AyraMusic)
+My personalized music app inspired by [Samsung Music](https://github.com/AyraHikari/SamsungMusicPort), included by my port [vgmstream-android](https://github.com/AyraHikari/vgmstream-android) library for playing over 500+ video games audio.
+⏱️ 2026  · Jetpack Compose
+
+## [Ayra Gallery](https://github.com/AyraHikari/AyraGallery)
+Powerful gallery with multiple AI models to detect and categorize every single photos, and easier search by image or OCR.
+⏱️ 2026  · Jetpack Compose
 
 ---
 
