@@ -87,8 +87,8 @@ Powerful gallery with multiple AI models to detect and categorize every single p
 
 ## 📊 GitHub Stats
 
-![AyraHikari's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AyraHikari&show_icons=true&theme=tokyonight&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AyraHikari&layout=compact&theme=tokyonight)
+![AyraHikari's GitHub Stats](https://github-stats-extended.vercel.app/api?username=AyraHikari&show_icons=true&theme=tokyonight&count_private=true)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=AyraHikari&layout=compact&theme=tokyonight)
 
 ---
 
